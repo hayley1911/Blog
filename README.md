@@ -10,5 +10,4 @@ Below are projects, study guides for certifications, and various other things!
 3. Microsoft 70-346
 
 ### Blog 
-- Women in Tech 
-
+-  [Women in Tech](https://github.com/hayleyfeyh/Portfolio/blob/master/Women-In-Tech.md)
