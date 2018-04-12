@@ -1,26 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to My Portfolio!
+Below are projects, study guides for certifications, and various other things!
 
-### Markdown
+### Code 
+1. Powershell Scripts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Certification Guides 
+1. MTA
+2. Watchguard Firewall 
+3. Microsoft 70-346
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Blog 
+- Women in Tech 
 
