@@ -9,5 +9,8 @@ Below are projects, study guides for certifications, and various other things!
 2. Watchguard Firewall 
 3. Microsoft 70-346
 
+## Powershell 
+- copy, rename, & backup a folder to another device 
+
 ### Blog 
 -  [Women in Tech](https://github.com/hayleyfeyh/Portfolio/blob/master/Women-In-Tech.md)
