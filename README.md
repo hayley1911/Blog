@@ -7,7 +7,7 @@ Below are projects, study guides for certifications, and various other things!
 ### Certification Guides 
 1. MTA
 2. Watchguard Firewall 
-3. Microsoft 70-346
+3. Microsoft Office 365 MCSA  
 
 ### Powershell 
 - copy, rename, & backup a folder to another device 
